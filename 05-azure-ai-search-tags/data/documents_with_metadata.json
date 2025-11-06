@@ -1,0 +1,128 @@
+[
+    {
+        "id": "tech001",
+        "content": "Python es un lenguaje de programación interpretado de alto nivel y propósito general. Su filosofía de diseño enfatiza la legibilidad del código con el uso de indentación significativa. Python es dinámicamente tipado y cuenta con recolección de basura automática.",
+        "category": "tecnologia",
+        "source": "manual_programacion",
+        "tags": ["python", "programacion", "lenguajes"]
+    },
+    {
+        "id": "tech002",
+        "content": "JavaScript es un lenguaje de programación ligero, interpretado, orientado a objetos con funciones de primera clase. Es conocido como el lenguaje de scripting para páginas web, pero también se usa en muchos entornos fuera del navegador como Node.js.",
+        "category": "tecnologia",
+        "source": "manual_web",
+        "tags": ["javascript", "web", "frontend", "nodejs"]
+    },
+    {
+        "id": "tech003",
+        "content": "Docker es una plataforma de código abierto diseñada para facilitar la creación, implementación y ejecución de aplicaciones mediante el uso de contenedores. Los contenedores permiten empaquetar una aplicación con todas sus dependencias.",
+        "category": "tecnologia",
+        "source": "manual_devops",
+        "tags": ["docker", "contenedores", "devops", "infraestructura"]
+    },
+    {
+        "id": "tech004",
+        "content": "Kubernetes es un sistema de código abierto para automatizar el despliegue, escalado y gestión de aplicaciones en contenedores. Fue originalmente diseñado por Google y ahora es mantenido por la Cloud Native Computing Foundation.",
+        "category": "tecnologia",
+        "source": "manual_devops",
+        "tags": ["kubernetes", "contenedores", "orquestacion", "cloud"]
+    },
+    {
+        "id": "cloud001",
+        "content": "Azure AI Search es un servicio de búsqueda en la nube que proporciona APIs REST y SDK para crear experiencias de búsqueda enriquecidas sobre contenido privado y heterogéneo en aplicaciones web, móviles y empresariales.",
+        "category": "cloud",
+        "source": "documentacion_azure",
+        "tags": ["azure", "search", "cloud", "ai"]
+    },
+    {
+        "id": "cloud002",
+        "content": "Azure OpenAI Service proporciona acceso REST API a los potentes modelos de lenguaje de OpenAI incluyendo GPT-4, GPT-3.5-Turbo y la serie Embeddings. Estos modelos se pueden adaptar fácilmente a tareas específicas.",
+        "category": "cloud",
+        "source": "documentacion_azure",
+        "tags": ["azure", "openai", "llm", "ai"]
+    },
+    {
+        "id": "cloud003",
+        "content": "AWS Lambda es un servicio de computación sin servidor que ejecuta código en respuesta a eventos y administra automáticamente los recursos informáticos subyacentes. Permite ejecutar código sin aprovisionar o administrar servidores.",
+        "category": "cloud",
+        "source": "documentacion_aws",
+        "tags": ["aws", "lambda", "serverless", "cloud"]
+    },
+    {
+        "id": "ai001",
+        "content": "RAG (Retrieval Augmented Generation) es una técnica que combina la recuperación de información con la generación de lenguaje natural. Permite a los modelos de lenguaje acceder a información externa para generar respuestas más precisas y actualizadas.",
+        "category": "ai",
+        "source": "documentacion_ia",
+        "tags": ["rag", "ia", "llm", "busqueda"]
+    },
+    {
+        "id": "ai002",
+        "content": "Los embeddings son representaciones vectoriales densas de texto que capturan el significado semántico. Permiten medir la similitud entre textos y son fundamentales para búsquedas semánticas, clasificación y sistemas de recomendación.",
+        "category": "ai",
+        "source": "documentacion_ia",
+        "tags": ["embeddings", "vectores", "nlp", "semantica"]
+    },
+    {
+        "id": "ai003",
+        "content": "Los Large Language Models (LLMs) son modelos de inteligencia artificial entrenados con enormes cantidades de texto. Pueden realizar tareas como generación de texto, traducción, resumen, respuesta a preguntas y programación.",
+        "category": "ai",
+        "source": "documentacion_ia",
+        "tags": ["llm", "ia", "nlp", "transformer"]
+    },
+    {
+        "id": "ai004",
+        "content": "Fine-tuning es el proceso de ajustar un modelo preentrenado con datos específicos de un dominio o tarea. Permite adaptar modelos generales a necesidades específicas mejorando su rendimiento en tareas particulares.",
+        "category": "ai",
+        "source": "documentacion_ia",
+        "tags": ["fine-tuning", "ml", "entrenamiento", "ia"]
+    },
+    {
+        "id": "health001",
+        "content": "La diabetes tipo 2 es una enfermedad crónica que afecta la forma en que el cuerpo metaboliza el azúcar. Con la diabetes tipo 2, el cuerpo no produce suficiente insulina o se resiste a la insulina.",
+        "category": "salud",
+        "source": "enciclopedia_medica",
+        "tags": ["diabetes", "enfermedad", "metabolismo"]
+    },
+    {
+        "id": "health002",
+        "content": "El ejercicio cardiovascular es cualquier actividad que aumenta el ritmo cardíaco y la respiración. Incluye caminar, correr, nadar y andar en bicicleta. Mejora la salud del corazón y ayuda a controlar el peso.",
+        "category": "salud",
+        "source": "guia_ejercicios",
+        "tags": ["ejercicio", "cardio", "salud", "corazon"]
+    },
+    {
+        "id": "health003",
+        "content": "La meditación mindfulness es una práctica mental que se centra en estar presente en el momento actual. Se ha demostrado que reduce el estrés, mejora la concentración y promueve el bienestar emocional.",
+        "category": "salud",
+        "source": "guia_bienestar",
+        "tags": ["meditacion", "mindfulness", "salud-mental", "bienestar"]
+    },
+    {
+        "id": "health004",
+        "content": "Una dieta mediterránea se caracteriza por un alto consumo de aceite de oliva, legumbres, cereales integrales, frutas y verduras. Se asocia con menor riesgo de enfermedades cardíacas y mayor longevidad.",
+        "category": "salud",
+        "source": "guia_nutricion",
+        "tags": ["nutricion", "dieta", "salud", "corazon"]
+    },
+    {
+        "id": "business001",
+        "content": "Scrum es un marco de trabajo ágil para gestionar proyectos complejos. Se basa en sprints iterativos, reuniones diarias y roles definidos como Scrum Master, Product Owner y equipo de desarrollo.",
+        "category": "negocios",
+        "source": "manual_agile",
+        "tags": ["scrum", "agile", "metodologia", "gestion"]
+    },
+    {
+        "id": "business002",
+        "content": "El análisis SWOT es una herramienta estratégica que identifica Fortalezas, Oportunidades, Debilidades y Amenazas de una organización. Ayuda en la planificación estratégica y toma de decisiones.",
+        "category": "negocios",
+        "source": "manual_estrategia",
+        "tags": ["swot", "estrategia", "analisis", "gestion"]
+    },
+    {
+        "id": "business003",
+        "content": "El Customer Lifetime Value (CLV) es una métrica que estima el valor total que un cliente aporta a una empresa durante toda su relación. Es crucial para estrategias de marketing y retención de clientes.",
+        "category": "negocios",
+        "source": "manual_marketing",
+        "tags": ["clv", "marketing", "metricas", "clientes"]
+    }
+]

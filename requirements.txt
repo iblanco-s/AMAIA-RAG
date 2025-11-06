@@ -1,4 +1,5 @@
 azure-identity
+azure-search-documents
 openai
 python-dotenv
 lunr
