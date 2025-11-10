@@ -9,3 +9,7 @@ tiktoken>=0.7.0
 matplotlib
 pandas
 Pillow
+networkx
+pyvis
+spacy
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
